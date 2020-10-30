@@ -1,0 +1,38 @@
+{
+  "name": "zoo",
+  "version": "1.0.0",
+  "description": "new Boss, by micro-frontend",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "@babel/preset-react": "^7.12.1",
+    "babel-loader": "^8.1.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "antd": "^4.7.3",
+    "html-webpack-plugin": "^4.5.0",
+    "qiankun": "^2.2.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "single-spa": "^5.8.0",
+    "webpack": "^5.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zhujun24/zoo.git"
+  },
+  "keywords": [
+    "qiankun",
+    "single-spa",
+    "micro-frontend"
+  ],
+  "author": "jun.zhua",
+  "license": "ISC"
+}
